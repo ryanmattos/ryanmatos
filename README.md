@@ -1,6 +1,6 @@
 ## Hey guys 👋
 My name is Ryan, and i've been into this dark world since 2016 when I first met C. Oh dear C...
-Then I was introduced to PHP, HTML, CSS and JS (breath), and **BAMM** Web Developer.
+Then I was introduced to PHP, HTML, CSS and JS _(breath)_, and **BAMM** Web Developer.
 Recently I've just taken my bags and moved out from PHP's house, and now I'm living under node's bridge with my old friend JS. It's been crazy since then
 
 I've tried a lot of projects, but as I'm stupid I lose most of them all the time. Now I'm working on a shopping list WebApp using `NodeJs` and now it's in God's hands, amen 🙏
