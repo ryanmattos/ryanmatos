@@ -13,6 +13,7 @@ I've tried a lot of projects, but as I'm stupid I lose most of them all the time
 ---
 ### 💻Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanmattos&layout=compact&theme=blueberry&hide_title=true)](https://github.com/ryanmattos/github-readme-stats)
+
 ---
 ### 🛠 Languages & Tools
 ![](https://img.shields.io/badge/Code_Editor-VS_Code-informational?style=for-the-badge&logo=visual-studio-code&labelColor=242938&logoColor=white&color=13b982)
