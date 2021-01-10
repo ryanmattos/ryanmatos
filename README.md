@@ -33,3 +33,7 @@ I've tried a lot of projects, but as I'm stupid I lose most of them all the time
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=for-the-badge&logo=angular&labelColor=242938&logoColor=white&color=13b982)
 ![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=for-the-badge&logo=bootstrap&labelColor=242938&logoColor=white&color=13b982)
 
+---
+
+### 🔮 Profile Viewed Times
+![](https://komarev.com/ghpvc/?username=ryanmattos&style=flat-square&color=13b982&label=Views)
