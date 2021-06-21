@@ -9,11 +9,6 @@ I've been studying ReactJS and React Native since last year _2020_, and have bee
 
 ---
 
-### 🔧 Production Projects
-🎶 [Julgando Música](https://julgando-musica.vercel.app/ "Julgando Música App")
-
----
-
 ### 〽️ Github Stats
 
 ![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=ryanmattos&theme=blueberry&show_icons=true&hide_title=true)
@@ -40,6 +35,11 @@ I've been studying ReactJS and React Native since last year _2020_, and have bee
 ![](https://img.shields.io/badge/API_Rest-Java-informational?style=for-the-badge&logo=java&labelColor=242938&logoColor=white&color=13b982)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=for-the-badge&logo=angular&labelColor=242938&logoColor=white&color=13b982)
 ![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=for-the-badge&logo=bootstrap&labelColor=242938&logoColor=white&color=13b982)
+
+---
+
+### 🔧 Production Projects
+🎶 [Julgando Música](https://julgando-musica.vercel.app/ "Julgando Música App")
 
 ---
 
