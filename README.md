@@ -5,6 +5,13 @@ Recently I've just taken my bags and moved out from PHP's house, and now I'm liv
 
 I've tried a lot of projects, but as I'm stupid I lose most of them all the time. Now I'm working on a shopping list WebApp using `NodeJs` and now it's in God's hands, amen 🙏
 
+I've been studying ReactJS and React Native since last year _2020_, and have been working on personal projects. RocketSeat have most part of the credit of the application I'm building, 'case they literally took my hand and said "Let's go Dev, time to code with the future", and I use React in most part of my projects. So, yes, I **AM** a React enthusiast, sue me.
+
+---
+
+### 🔧 Production Projects
+🎶 [Julgando Música](https://julgando-musica.vercel.app/ "Julgando Música App")
+
 ---
 
 ### 〽️ Github Stats
