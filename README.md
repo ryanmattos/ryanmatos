@@ -22,6 +22,7 @@ I've tried a lot of projects, but as I'm stupid I lose most of them all the time
 ![](https://img.shields.io/badge/Code_Editor-VS_Code-informational?style=for-the-badge&logo=visual-studio-code&labelColor=242938&logoColor=white&color=13b982)
 ![](https://img.shields.io/badge/Plataform-Node.js-informational?style=for-the-badge&logo=node.js&labelColor=242938&logoColor=white&color=13b982)
 ![](https://img.shields.io/badge/Framework-React-informational?style=for-the-badge&logo=react&labelColor=242938&logoColor=white&color=13b982)
+![](https://img.shields.io/badge/Framework-React_Native-informational?style=for-the-badge&logo=react&labelColor=242938&logoColor=white&color=13b982
 ![](https://img.shields.io/badge/Language-PHP-informational?style=for-the-badge&logo=php&labelColor=242938&logoColor=white&color=13b982)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=for-the-badge&logo=javascript&labelColor=242938&logoColor=white&color=13b982)
 ![](https://img.shields.io/badge/Language-C-informational?style=for-the-badge&logo=c&labelColor=242938&logoColor=white&color=13b982)
