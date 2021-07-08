@@ -11,9 +11,9 @@ I've been studying ReactJS and React Native since last year _2020_, and have bee
 ---
 ### 🔍 Find Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-ryanfmattos-informational?style=for-the-badge&logo=twitter&labelColor=242938&logoColor=white&color=24a87c)](https://twitter.com/ryanfmattos)
-[![Instagram](https://img.shields.io/badge/Instagram-ryan.fmattos-informational?style=for-the-badge&logo=instagram&labelColor=242938&logoColor=white&color=24a87c)](https://www.instagram.com/ryan.fmattos/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-Ryan_Mattos-informational?style=for-the-badge&logo=linkedin&labelColor=242938&logoColor=white&color=24a87c)](https://www.linkedin.com/in/ryan-mattos/)
+[![Twitter](https://img.shields.io/badge/Twitter-_-informational?style=for-the-badge&logo=twitter&logoWidth=45&labelColor=1DA1F2&logoColor=white&color=1DA1F2)](https://twitter.com/ryanfmattos)
+[![Instagram](https://img.shields.io/badge/Instagram-_-informational?style=for-the-badge&logo=instagram&logoWidth=45&labelColor=E1306C&logoColor=white&color=E1306C)](https://www.instagram.com/ryan.fmattos/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-_-informational?style=for-the-badge&logo=linkedin&logoWidth=45&labelColor=0072b1&logoColor=white&color=0072b1)](https://www.linkedin.com/in/ryan-mattos/)
 
 ---
 
