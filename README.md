@@ -30,7 +30,7 @@ I've been studying ReactJS and React Native since last year _2020_, and have bee
 
 ### 🛠 Languages & Tools
 ![](https://img.shields.io/badge/Code_Editor-VS_Code-informational?style=for-the-badge&logo=visual-studio-code&labelColor=242938&logoColor=white&color=24a87c)
-![](https://img.shields.io/badge/Plataform-Node.js-informational?style=for-the-badge&logo=node.js&labelColor=242938&logoColor=white&color=24a87c)
+![](https://img.shields.io/badge/Platform-Node.js-informational?style=for-the-badge&logo=node.js&labelColor=242938&logoColor=white&color=24a87c)
 ![](https://img.shields.io/badge/Framework-React-informational?style=for-the-badge&logo=react&labelColor=242938&logoColor=white&color=24a87c)
 ![](https://img.shields.io/badge/Framework-React_Native-informational?style=for-the-badge&logo=react&labelColor=242938&logoColor=white&color=24a87c)
 ![](https://img.shields.io/badge/Language-PHP-informational?style=for-the-badge&logo=php&labelColor=242938&logoColor=white&color=24a87c)
