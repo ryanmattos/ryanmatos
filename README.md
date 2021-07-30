@@ -48,6 +48,7 @@ I've been studying ReactJS and React Native since last year _2020_, and have bee
 
 ### 🔧 Production Projects
 🎶 [Julgando Música](https://julgando-musica.vercel.app/ "Julgando Música App")
+🪙 [Crypto Bipolar](https://twitter.com/cryptobipolar_)
 
 ---
 
