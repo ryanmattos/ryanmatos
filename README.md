@@ -35,6 +35,7 @@ I've been studying ReactJS and React Native since last year _2020_, and have bee
 ![](https://img.shields.io/badge/Framework-React_Native-informational?style=for-the-badge&logo=react&labelColor=242938&logoColor=white&color=24a87c)
 ![](https://img.shields.io/badge/Language-PHP-informational?style=for-the-badge&logo=php&labelColor=242938&logoColor=white&color=24a87c)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=for-the-badge&logo=javascript&labelColor=242938&logoColor=white&color=24a87c)
+![](https://img.shields.io/badge/Language-Python-informational?style=for-the-badge&logo=python&labelColor=242938&logoColor=white&color=24a87c)
 ![](https://img.shields.io/badge/Language-C-informational?style=for-the-badge&logo=c&labelColor=242938&logoColor=white&color=24a87c)
 
 ---
