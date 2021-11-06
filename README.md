@@ -29,21 +29,26 @@ I've been studying ReactJS and React Native since last year _2020_, and have bee
 ---
 
 ### 🛠 Languages & Tools
-![](https://img.shields.io/badge/Code_Editor-VS_Code-informational?style=for-the-badge&logo=visual-studio-code&labelColor=242938&logoColor=white&color=24a87c)
-![](https://img.shields.io/badge/Platform-Node.js-informational?style=for-the-badge&logo=node.js&labelColor=242938&logoColor=white&color=24a87c)
-![](https://img.shields.io/badge/Framework-React-informational?style=for-the-badge&logo=react&labelColor=242938&logoColor=white&color=24a87c)
-![](https://img.shields.io/badge/Framework-React_Native-informational?style=for-the-badge&logo=react&labelColor=242938&logoColor=white&color=24a87c)
-![](https://img.shields.io/badge/Language-PHP-informational?style=for-the-badge&logo=php&labelColor=242938&logoColor=white&color=24a87c)
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=for-the-badge&logo=javascript&labelColor=242938&logoColor=white&color=24a87c)
-![](https://img.shields.io/badge/Language-Python-informational?style=for-the-badge&logo=python&labelColor=242938&logoColor=white&color=24a87c)
-![](https://img.shields.io/badge/Language-C-informational?style=for-the-badge&logo=c&labelColor=242938&logoColor=white&color=24a87c)
+![](https://img.shields.io/badge/Code_Editor-VS_Code-informational?style=for-the-badge&logo=visual-studio-code&logoWidth=30&labelColor=242938&logoColor=white&color=24a87c)
+![](https://img.shields.io/badge/Platform-Node.js-informational?style=for-the-badge&logo=node.js&logoWidth=30&labelColor=242938&logoColor=white&color=24a87c)
+![](https://img.shields.io/badge/Framework-React-informational?style=for-the-badge&logo=react&logoWidth=30&labelColor=242938&logoColor=white&color=24a87c)
+![](https://img.shields.io/badge/Framework-React_Native-informational?style=for-the-badge&logo=react&logoWidth=30&labelColor=242938&logoColor=white&color=24a87c)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=for-the-badge&logo=javascript&logoWidth=30&labelColor=242938&logoColor=white&color=24a87c)
+![](https://img.shields.io/badge/Language-TypeScript-informational?style=for-the-badge&logo=typescript&logoWidth=30&labelColor=242938&logoColor=white&color=24a87c)
+![](https://img.shields.io/badge/Language-Python-informational?style=for-the-badge&logo=python&logoWidth=30&labelColor=242938&logoColor=white&color=24a87c)
+![](https://img.shields.io/badge/Language-C-informational?style=for-the-badge&logo=c&logoWidth=30&labelColor=242938&logoColor=white&color=24a87c)
+![](https://img.shields.io/badge/Language-Java-informational?style=for-the-badge&logo=java&logoWidth=30&labelColor=242938&logoColor=white&color=24a87c)
+![](https://img.shields.io/badge/Framework-Hibernate-informational?style=for-the-badge&logo=hibernate&logoWidth=30&labelColor=242938&logoColor=white&color=24a87c)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoWidth=30&labelColor=242938&logoColor=white&color=24a87c)
 
 ---
 
 ### 📚 Learning
-![](https://img.shields.io/badge/API_Rest-Java-informational?style=for-the-badge&logo=java&labelColor=242938&logoColor=white&color=24a87c)
-![](https://img.shields.io/badge/Framework-Angular-informational?style=for-the-badge&logo=angular&labelColor=242938&logoColor=white&color=24a87c)
-![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=for-the-badge&logo=bootstrap&labelColor=242938&logoColor=white&color=24a87c)
+
+![](https://img.shields.io/badge/Framework-Angular-informational?style=for-the-badge&logo=angular&logoWidth=30&labelColor=242938&logoColor=white&color=24a87c)
+![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoWidth=30&labelColor=242938&logoColor=white&color=24a87c)
+![](https://img.shields.io/badge/Library-TensorFlow-informational?style=for-the-badge&logo=tensorflow&logoWidth=30&labelColor=242938&logoColor=white&color=24a87c)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=for-the-badge&logo=flask&logoWidth=30&labelColor=242938&logoColor=white&color=24a87c)
 
 ---
 
