@@ -57,7 +57,7 @@ I've been studying ReactJS and React Native since last year _2020_, and have bee
 
 💵 [Crypto Bipolar](https://twitter.com/cryptobipolar_)
 
-👀 [Not a Chat](https://not-a-chat.vercel.app/)
+👀 [Not a Chat](https://not-a-chat.herokuapp.com/)
 
 ---
 
