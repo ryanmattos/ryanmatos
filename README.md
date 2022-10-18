@@ -40,12 +40,12 @@ I've been studying ReactJS and React Native since last year _2020_, and have bee
 ![](https://img.shields.io/badge/Language-Java-informational?style=for-the-badge&logo=java&logoWidth=30&labelColor=242938&logoColor=white&color=24a87c)
 ![](https://img.shields.io/badge/Framework-Hibernate-informational?style=for-the-badge&logo=hibernate&logoWidth=30&labelColor=242938&logoColor=white&color=24a87c)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoWidth=30&labelColor=242938&logoColor=white&color=24a87c)
+![](https://img.shields.io/badge/Framework-Angular-informational?style=for-the-badge&logo=angular&logoWidth=30&labelColor=242938&logoColor=white&color=24a87c)
 
 ---
 
 ### 📚 Learning
 
-![](https://img.shields.io/badge/Framework-Angular-informational?style=for-the-badge&logo=angular&logoWidth=30&labelColor=242938&logoColor=white&color=24a87c)
 ![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoWidth=30&labelColor=242938&logoColor=white&color=24a87c)
 ![](https://img.shields.io/badge/Library-TensorFlow-informational?style=for-the-badge&logo=tensorflow&logoWidth=30&labelColor=242938&logoColor=white&color=24a87c)
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=for-the-badge&logo=flask&logoWidth=30&labelColor=242938&logoColor=white&color=24a87c)
